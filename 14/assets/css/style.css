@@ -1,0 +1,65 @@
+body{
+  background-color: #e2e8ed !important;
+  margin-top: 15px;
+}
+
+a{
+  color: #21b28f;
+}
+h1{
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  display: inline;
+  color: #243242;
+}
+h2{
+  font-size: 16px;
+  font-weight: regular;
+  margin-top: 0;
+  display: inline;
+  color: #243242;
+}
+p {
+  font-size: 12px;
+  margin-top: 5px;
+  color: #243242;
+}
+.glyphicon-remove{
+  float: right;
+}
+.input{
+  background-color: white;
+  padding: 15px;
+  overflow: hidden;
+}
+.textarea{
+  border: 2px solid #243242;
+  border-radius: 20px;
+}
+.publicar{
+  background-color: #21b28f;
+  border-radius: 20px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.avatar{
+  width: 34px;
+  border-radius: 50%;
+  border: 1px solid #4dc1a5;
+}
+.btnlike{
+  background-color: white;
+}
+.glyphicon-heart{
+  color: red;
+  border: 1px solid #243242;
+}
+.counterlike{
+  display: inline;
+  font-size: 14px;
+  color: #243242;
+  padding-left: 10px;
+}
