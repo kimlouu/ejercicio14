@@ -32,6 +32,7 @@ p {
   background-color: white;
   padding: 15px;
   overflow: hidden;
+  margin-bottom: 15px;
 }
 .textarea{
   border: 2px solid #243242;
@@ -47,11 +48,23 @@ p {
 }
 .avatar{
   width: 34px;
+  height: 34px;
   border-radius: 50%;
   border: 1px solid #4dc1a5;
+  background-image: url('../img/p6.png');
+  background-size: cover;
+}
+.postimg{
+  width: 400px;
+  height: 300px;
+  background-image: url('https://picsum.photos/400/300/?random');
+  background-size: cover;
 }
 .btnlike{
   background-color: white;
+}
+.fas{
+  color:red;
 }
 .glyphicon-heart{
   color: red;
